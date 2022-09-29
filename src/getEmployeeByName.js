@@ -7,6 +7,6 @@ function getEmployeeByName(employeeName) {
   if (employeeName === undefined) return {};
   return el;
 }
-console.log(getEmployeeByName('Nigel'));
+// console.log(getEmployeeByName('Nigel'));
 
 module.exports = getEmployeeByName;
