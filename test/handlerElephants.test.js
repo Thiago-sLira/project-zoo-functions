@@ -5,7 +5,7 @@ describe('Testes da função HandlerElephants', () => {
     expect(typeof handlerElephants).toBe('function');
   });
   it('Verifica se retorna undefined', () => {
-    expect(handlerElephants(undefined)).toBeUndefined;
+    expect(handlerElephants(undefined)).toBe(undefined);
   });
   it('Verifica se retorna "Parâmetro inválido, é necessário uma string" caso receba algo diferente de string', () => {
     expect(handlerElephants(8)).toBe('Parâmetro inválido, é necessário uma string');
