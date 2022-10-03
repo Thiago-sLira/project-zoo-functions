@@ -3,7 +3,7 @@ const data = require('../data/zoo_data');
 const { species, hours } = data;
 
 const weekDays = ['Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday', 'Monday'];
-// const allAnimals = species.filter((objAnimals) => objAnimals === objAnimals.name);
+const allAnimals = species.map((objAnimals) => objAnimals.name);
 // console.log(allAnimals);
 
 const animalSchedule = (scheduleTarget) => {
@@ -37,8 +37,8 @@ const emptyParam = () => {
 
 function getSchedule(scheduleTarget) {
   if (weekDays.includes(scheduleTarget)) return { [scheduleTarget]: emptyParam()[scheduleTarget] };
-  if (!scheduleTarget) return emptyParam();
-  return animalSchedule(scheduleTarget);
+  if (allAnimals.includes(scheduleTarget)) return animalSchedule(scheduleTarget);
+  return emptyParam();
 }
 
 // console.log(emptyParam().Monday);
