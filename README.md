@@ -1,13 +1,22 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h1>Zoo Functions</h1>
+<p>A prefeitura me solicitou que organizasse as informações do zoológico da cidade!!</p>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<h2>🚀 Objective</h2>
+<p>Desenvolvi funções que buscam informações sobre os animais do zoológico como: especie e local de origem. Além disso, busquei também dados sobre as pessoas que colaboram com a manutenção e cuidado do zoológico.</p><br>
+<p>O mais desafiados na época foi entender em como as informações foram estrutudas e em como resolver os desafios propostos.</p>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+<h2>🛠️ Construído com</h2>
+
+<span><strong><em>JavaScript</em></strong></span><br>
+<span><strong><em>Higher Order Functions</em></strong></span><br>
+<span><strong><em>Tests with Jest</em></strong></span><br>
+
+<!-- <h3>Project look</h3>
+
+<img alt="image-readme" src="./github/StarWarsFilters.png" title="Star-Wars-Planets-Search"/> -->
+
+<p>I am available for contact, suggestions and feedback on the project.</p>
+
+<h2>🎁 Expressions of Gratitude</h2>
+<p>Tell others about this project. 📢
