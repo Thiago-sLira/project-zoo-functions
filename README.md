@@ -1,12 +1,11 @@
 <h1>Zoo Functions</h1>
-<p>A prefeitura me solicitou que organizasse as informações do zoológico da cidade!!</p>
+<p>The city hall asked me to organize the information about the city zoo!!</p>
 
 <h2>🚀 Objective</h2>
-<p>Desenvolvi funções que buscam informações sobre os animais do zoológico como: especie e local de origem. Além disso, busquei também dados sobre as pessoas que colaboram com a manutenção e cuidado do zoológico.</p><br>
-<p>O mais desafiados na época foi entender em como as informações foram estrutudas e em como resolver os desafios propostos.</p>
+<p>I developed functions that fetch information about the animals in the zoo, such as species and place of origin. In addition, I also gathered data about the people who collaborate with the maintenance and care of the zoo.</p><br>
+<p>The biggest challenge at the time was to understand how the information was structured and how to solve the proposed challenges.</p>
 
-
-<h2>🛠️ Construído com</h2>
+<h2>🛠️ Built with</h2>
 
 <span><strong><em>JavaScript</em></strong></span><br>
 <span><strong><em>Higher Order Functions</em></strong></span><br>
@@ -19,4 +18,4 @@
 <p>I am available for contact, suggestions and feedback on the project.</p>
 
 <h2>🎁 Expressions of Gratitude</h2>
-<p>Tell others about this project. 📢
+<p>Tell others about this project. 📢</p>
